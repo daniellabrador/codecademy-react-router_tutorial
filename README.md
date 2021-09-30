@@ -20,7 +20,7 @@ In this [video](https://www.youtube.com/watch?v=Law7wfdg_ls/) you will learn abo
 
 ## Setup
 
-To view the final output, click [here](https://daniellabrador-codecademy-router_tutorial.netlify.app).
+To view the final output, click [here](https://daniellabrador-codecademy-router-tutorial.netlify.app).
 
 ## Sources
 
