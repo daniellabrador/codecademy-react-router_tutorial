@@ -1,15 +1,17 @@
-# **~React**
+# **Spotify Music Previews**
 
-~React does something. This app is a [Codecademy](https://www.codecademy.com/learn/react-101) project intended to enhance my skills on the use of JavaScript skills.
+Spotify Music Previews shows a list of featured music from Spotify and display the preview audio clip of each song. This app is a [Codecademy](https://www.codecademy.com/learn/react-101) project intended to enhance my skills on the use of React routers.
 
 ## Table of Contents
 
-- [Project Prompt](#project-prompt)
+- [Project Prompt](#codecademy-project-prompt)
 - [Technologies](#technologies)
 - [Setup](#setup)
 - [Sources](#sources)
 
-## Project Prompt
+## Codecademy Project Prompt
+
+In this [video](https://www.youtube.com/watch?v=Law7wfdg_ls/) you will learn about the popular React library React Router. This is helpful if you are interested in using React Router in a project and want to learn about creating client side routing. After you finish watching this video, create your own react app using React Router.
 
 ## Technologies
 
@@ -18,7 +20,7 @@
 
 ## Setup
 
-To view the final output, click [here](https://daniellabrador.me/codecademy-react-)
+To view the final output, click [here](https://daniellabrador-codecademy-router_tutorial.netlify.app).
 
 ## Sources
 
